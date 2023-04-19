@@ -1,10 +1,5 @@
-# Nome do Projeto
 
-**Promobit**
-
-### Link Documentação
-
-[Documentação](https://documenter.getpostman.com/view/21555844/2s83tGoWvU)
+## Projeto Promobit
 
 ### Descrição
 
@@ -12,8 +7,6 @@ O promobit e resultado de um case, ele e um site onde você consulta os mais rec
 clincando sobre um filme irá para uma página com mais detálhes do filme, nela irá conseguir ver várias informações do longa além do trailer.
 
 ### Como Rodar o projeto
-
-[Abrir Projeto no GitHub](https://github.com/future4code/alves-Olavo-Nascimento/pull/75)
 
 - Faça um clone do projeto apartir do link acima
 
